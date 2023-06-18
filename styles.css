@@ -269,3 +269,8 @@ body {
 .non-clickable {
     cursor: default;
 }
+
+.certificate-item {
+    color: var(--secondary-text-color);
+    text-decoration: none;
+}
